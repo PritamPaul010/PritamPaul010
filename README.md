@@ -54,16 +54,6 @@ I’m currently expanding my skills into **Data Science**, **Machine Learning**,
 
 ---
 
-### 🏢 Professional Experience  
-
-**🚀 BAAR Technologies – Automation Engineer** *(Mar 2023 – Present)*  
-- Designed and optimized data policies and security workflows for **Aditya Birla Capital** and **DCB Bank** projects.  
-- Developed **data-cleaning algorithms** improving data integrity by **80%**, and optimized SQL queries by **70%**.  
-- Automated **account dormancy** and **statutory leave** management processes, reducing manual effort by **60%**.  
-- Led **SSO integration** for BAARIGA Portal using **Keycloak**, **React.js**, and **Node.js**, reducing authentication time by **87%**.  
-- Improved caching and session management, enhancing system scalability and memory usage by **50%**.
----
-
 ### 🚀 Featured Projects  
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
