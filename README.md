@@ -59,9 +59,9 @@ I’m currently expanding my skills into **Data Science**, **Machine Learning**,
 |----------|--------------|------------|
 | **ViSQL** | AI-driven data exploration platform for insights generation. | FastAPI, PostgreSQL, ML |
 | VisAlgoLab | Interactive algorithm learning & visualization platform with step-by-step execution. | Django, PostgreSQL, DSA, ML |
+| **BAARIGA SSO Integration** | SAML-based Keycloak authentication for web apps. | Node.js, React.js, Keycloak |
 <!--| **FastAPI Auth System** | JWT-based user auth with role-based access. | FastAPI, SQLAlchemy |-->
 <!--| **ML Model API** | Model deployment for prediction and inference. | FastAPI, scikit-learn |-->
-| **BAARIGA SSO Integration** | SAML-based Keycloak authentication for web apps. | Node.js, React.js, Keycloak |
 
 ---
 
